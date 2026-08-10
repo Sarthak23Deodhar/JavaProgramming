@@ -1,5 +1,6 @@
 import java.util.Scanner;
-//create a javaclass student with variables name, roll number, department, and marks.implement constructor overloading for the above statement.
+//exp 2 create a javaclass student with variables name, roll number, department, and marks.
+// implement constructor overloading for the above statement.
 public class student
  { 
     String name;

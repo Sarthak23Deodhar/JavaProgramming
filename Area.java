@@ -1,7 +1,6 @@
 import java.util.Scanner;
-// Area of circle , rectangle, and square using constructor overloading.
+// exp 2 Area of circle , rectangle, and square using constructor overloading.
 public class Area {
-    Scanner scanner= new Scanner(System.in);
     double radius;
     Area(double r)
     {

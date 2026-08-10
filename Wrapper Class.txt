@@ -1,0 +1,11 @@
+Wrapper Class:
+
+1. Write a java program that accepts an integer as a string and convert it into an integer object using wrapper class. Display the original string , wrapper object and its primitive value 
+
+2. Given two numbers as a string convert them into integers using wrapper class and print their sum
+
+3. Write a program to accept a number as a string and convert it into an integer object and determine whether the number is even or odd
+
+4. Write a program that accepts three numbers convert them into integer objects and find the largest number.
+
+5. Create a Calculator that accepts two numbers as a string and an operation input. convert this string into wrapper object and perform the requested operation.
